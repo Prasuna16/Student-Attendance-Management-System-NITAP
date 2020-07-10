@@ -1,0 +1,64 @@
+.body {
+        background-color: #eeeeee;
+    }
+.container-fluid {
+        padding-top: 20px;
+        padding-bottom: 125px;
+        background-color: white;
+        height: 135px;
+  }
+.logo {
+        float: left;
+        width: 10%;
+        padding-bottom: 5px;
+  }
+      a:hover {
+        text-decoration: none;
+      }
+.container-fluid-text{
+        font-family: "Helvetica";
+        font-size: 22px;
+        font-weight: bold;
+        color: #4690C6;
+        padding-left: 50px;
+        padding-top: 10px;
+        padding-bottom: 30px;
+  }
+.container-fluid p{
+        padding-left: 190px;
+        font-size: 10px;
+    }
+.mhrd-logo {
+        float: right;
+        padding-top: 10px;
+        padding-right: 50px;
+        width: 13%;
+  }
+.navbar {
+  padding-top: 0.01rem; 
+  padding-bottom: 0.01rem; 
+  line-height: 0.5em;
+  margin-top: 0px;
+  padding-top: 0px;
+  width: 100%;
+  background-color: #4690C6;
+  font-weight: bold;
+  font-size:20px;
+  font-family: "Roboto"
+}
+
+.welcome {
+  margin-top: 50px;
+  font-family: Helvetica;
+  font-size: 22px;
+}
+
+.sign {
+  font-family: Helvetica;
+  font-size: 18px;
+}
+
+.signup {
+  margin-top: 30px;
+}
+
